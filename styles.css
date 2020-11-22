@@ -25,5 +25,10 @@ body{
 }
 
 .cabecera p{
-    font-size: 70px;
+    font-size: 70px; 
+}
+
+footer{
+    background-color: red;
+    padding: 30px;
 }
