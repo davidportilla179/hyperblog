@@ -23,3 +23,7 @@ body{
     background-color: palevioletred;
     color: white;
 }
+
+.cabecera p{
+    font-size: 70px;
+}
